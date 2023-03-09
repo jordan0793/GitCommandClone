@@ -166,3 +166,5 @@ comprendre l'upstream : https://code-garage.fr/blog/a-quoi-sert-le-parametre-u-l
 span style="color:red">_!! Vérification du statut !!_</span>
 
 n'importe urtuiuftucutfuf
+
+bascule sur la branche 1
