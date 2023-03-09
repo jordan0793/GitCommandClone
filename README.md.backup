@@ -176,7 +176,3 @@ comprendre l'upstream : https://code-garage.fr/blog/a-quoi-sert-le-parametre-u-l
 > git push clone // (les fois suivantes !) 
 
 <span style="color:red">*!! Procedure à répéter pour chaque nouvelle branche !!*</span>
-
-span style="color:red">*!! Vérification du statut !!*</span>
-
-
